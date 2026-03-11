@@ -1,6 +1,8 @@
 # JAKS Research Repository
 This repository contains research on circuit stability in neural networks, focusing on problem decomposition and automated plan creation. The work investigates how stable circuit patterns emerge in transformer models and their applications to systematic problem-solving tasks. 
 
+**This repo specifically contains my work as part of the JAKS group in algoverse. The original repo can be found here: https://github.com/alansun17904/JAKS/tree/main**
+
 ## Repository Structure
 
 ```
